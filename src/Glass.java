@@ -1,0 +1,4 @@
+public enum Glass {
+
+    CLEAR, ACRYLIC, ANTI_REFLECTION, PLEXI, RECYCLED, SAFETY
+}
